@@ -8,14 +8,10 @@ This isn't just another tutorial graveyard. It's a curated collection of my proj
 
 ## 🔥 What's Cooking? (Project Roadmap)
 
-### 👶 Baby Steps (Mastering the Basics)
-- [x] **Webcam Feed Fun:** The classic "hello world" - but for your camera.
-- [x] **Image Filter Wizard:** Applying filters, transformations, and edge detection.
-- [ ] **Basic Object Detector:** Finding shapes and colors in an image.
-
 ### 🧑‍💻 The Main Quest (Hand Detection & Gesture Control)
-- [ ] **Basic Hand Detection:** Track your hand in real-time using your webcam.
-- [ ] **Finger Counter:** The classic - how many fingers are you holding up?
+- [x] **Basic Hand Detection:** Track your hand in real-time using your webcam.
+- [x] **Finger Counter:** The classic - how many fingers are you holding up?
+- [x] **Gesture Recognition System:** Decoding static hand signs (like "peace" ✌️, "ok" 👌, "thumbs up" 👍)
 - [ ] **Virtual Mouse:** Control your computer cursor with your hand. ✋➡️🖱️
 - [ ] **Air Guitar App:** Strumming invisible strings to make real music. 🎸
 - [ ] **Gesture Volume Control:** Wave your hand to turn the volume up/down. 🔈
@@ -31,16 +27,6 @@ This isn't just another tutorial graveyard. It's a curated collection of my proj
 - **OpenCV** (The main powerhouse) 
 - **MediaPipe** (For super accurate hand tracking) 🤙
 - **NumPy** (For all the math magic)
-
-## 📌 How to Use
-Each project folder is its own little world. Jump into any one you find interesting! You'll find:
--   The code (`main.py`)
--   A `README.md` explaining what it does and how to run it.
--   Resources I found helpful.
-
-Clone the repo, `pip install -r requirements.txt`, and start hacking!
-
----
 
 **Follow my journey from zero to computer vision hero!** PRs and ideas are always welcome. Let's build the future, together. 
 
