@@ -12,7 +12,7 @@ This isn't just another tutorial graveyard. It's a curated collection of my proj
 - [x] **Basic Hand Detection:** Track your hand in real-time using your webcam.
 - [x] **Finger Counter:** The classic - how many fingers are you holding up?
 - [x] **Gesture Recognition System:** Decoding static hand signs (like "peace" ✌️, "ok" 👌, "thumbs up" 👍)
-- [ ] **Virtual Mouse:** Control your computer cursor with your hand. ✋➡️🖱️
+- [x] **Virtual Mouse:** Control your computer cursor with your hand. ✋➡️🖱️
 - [ ] **Air Guitar App:** Strumming invisible strings to make real music. 🎸
 - [ ] **Gesture Volume Control:** Wave your hand to turn the volume up/down. 🔈
 - [ ] **Rock, Paper, Scissors AI:** Finally settle the score against a machine. ✊📄✂️
